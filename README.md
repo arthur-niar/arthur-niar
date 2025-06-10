@@ -15,7 +15,7 @@
 - 📱 WhatsApp: +55 85 98844-2693  
 - 📸 Instagram: [@arthur.lemos085](https://instagram.com/arthur.lemos085)  
 - 💼 LinkedIn: [Arthur Lemos](https://www.linkedin.com/in/arthur-lemos-5983112ab/)  
-- 📄 [Acesse meu currículo!](https://www.linkedin.com/in/arthur-lemos-5983112ab/)  
+- 📄 [Acesse meu currículo!](https://github.com/arthur-niar/arthur-niar/blob/main/curriculo-arthur-lemos.pdf)  
 
 ---
 
