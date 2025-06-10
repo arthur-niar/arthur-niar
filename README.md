@@ -1,4 +1,4 @@
-## 👋 Fala, dev! Eu sou o Arthur Lemos
+![image](https://github.com/user-attachments/assets/fafe7ace-6164-4b4c-8a75-8c86e412e8d2)## 👋 Fala, dev! Eu sou o Arthur Lemos ☕
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UNIFOR** – atualmente no 3º semestre, explorando de tudo um pouco no universo da tecnologia!
 
@@ -6,7 +6,7 @@
 
 🚀 Participei do projeto **UniRotas**, uma solução pensada para otimizar o transporte público em ambientes institucionais, utilizando boas práticas de desenvolvimento, metodologias ágeis e foco na experiência do usuário.
 
-🔎 Atualmente estou me aprofundando em estruturas de dados, front-end completo, maestria em ambiente de dados e explorando os primeiros passos em **Ciência de Dados**. Apenas os passos pro' tão sonhado Full-Stack!
+🔎 Atualmente estou me aprofundando em estruturas de dados, melhorando meu front-end, aperfeiçoando conhecimentos em banco de dados e explorando os primeiros passos em **Inteligência Artifical**. Apenas os passos pro' tão sonhado **Full-Stack**!
 
 ---
 
