@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fafe7ace-6164-4b4c-8a75-8c86e412e8d2)## 👋 Fala, dev! Eu sou o Arthur Lemos ☕
+## 👋 Fala, dev! Eu sou o Arthur Lemos ☕
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UNIFOR** – atualmente no 3º semestre, explorando de tudo um pouco no universo da tecnologia!
 
